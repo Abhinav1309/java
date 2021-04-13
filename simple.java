@@ -2,6 +2,6 @@ class simple
 {
 public static void main(string args[])
  {
- system.out.println("welcome to u abhinav");
+ system.out.println("welcome to u abhi");
  }
 }
